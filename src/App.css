@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.extrenal-css{
+  text-decoration: none;
+  color:rgb(243, 128, 102);
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+  /* color:rgb(243, 128, 102); */
+}
